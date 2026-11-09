@@ -1,0 +1,12 @@
+# Upstream checkout made by build.sh
+/build/
+
+# Local scratch: patched source tree and helper scripts
+/src/
+/dev/
+/out/
+
+# Build leftovers
+*.o
+*.d
+*.so.tmp
